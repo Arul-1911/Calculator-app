@@ -1,6 +1,7 @@
 let calculator = document.createElement("div");
 calculator.setAttribute("class","calculator");
 
+
 let calc_0 = document.createElement("div");
 calc_0.setAttribute("class","result");
 calc_0.setAttribute("id","result");
